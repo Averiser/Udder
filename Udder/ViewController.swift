@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     super.viewDidLoad()
 
   }
+  
+  override func viewDidDisappear(_ animated: Bool) {
+    <#code#>
+  }
 
 
 }
